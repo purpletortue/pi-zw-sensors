@@ -131,4 +131,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-config/
+config/*
+!config/.gitkeep
