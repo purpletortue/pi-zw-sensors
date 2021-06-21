@@ -4,6 +4,8 @@ print("---------------------------------------------")
 print("MiTemperature2 / ATC Thermometer version 3.1")
 print("---------------------------------------------")
 
+# Plus mods included for Fahrenheit, atc rounding, and MQTT TLS support
+
 from bluepy import btle
 import argparse
 import os
